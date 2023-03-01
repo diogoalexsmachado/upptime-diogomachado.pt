@@ -22,19 +22,19 @@
     "url": "https://www.tbk.digital",
     "icon": "https://icons.duckduckgo.com/ip3/www.tbk.digital.ico",
     "slug": "tbk-digital-labs-website",
-    "status": "down",
-    "uptime": "89.19%",
-    "uptimeDay": "89.19%",
-    "uptimeWeek": "89.19%",
-    "uptimeMonth": "89.19%",
-    "uptimeYear": "89.19%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.34%",
+    "uptimeDay": "2.34%",
+    "uptimeWeek": "2.34%",
+    "uptimeMonth": "2.34%",
+    "uptimeYear": "2.34%",
+    "time": 487,
+    "timeDay": 487,
+    "timeWeek": 487,
+    "timeMonth": 487,
+    "timeYear": 487,
     "dailyMinutesDown": {
-      "2023-03-01": 0
+      "2023-03-01": 65
     }
   }
 ]
