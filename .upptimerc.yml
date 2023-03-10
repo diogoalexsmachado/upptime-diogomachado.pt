@@ -7,6 +7,8 @@ sites:
     url: https://www.diogomachado.pt
   - name: TBK Digital Labs Website
     url: https://www.tbk.digital
+  - name: João's Portfolio Page
+    url: https://joao.tbk.digital
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,6 +22,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: About me
+      href: https://diogomachado.pt
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
