@@ -45,18 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/joao.tbk.digital.ico",
     "slug": "joao-s-portfolio-page",
     "status": "up",
-    "uptime": "0.62%",
-    "uptimeDay": "0.62%",
-    "uptimeWeek": "0.62%",
-    "uptimeMonth": "0.62%",
-    "uptimeYear": "0.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 237,
     "timeDay": 237,
     "timeWeek": 237,
     "timeMonth": 237,
     "timeYear": 237,
-    "dailyMinutesDown": {
-      "2023-03-10": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
