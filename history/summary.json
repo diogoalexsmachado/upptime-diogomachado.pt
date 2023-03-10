@@ -38,5 +38,25 @@
     "dailyMinutesDown": {
       "2023-03-01": 65
     }
+  },
+  {
+    "name": "João's Portfolio Page",
+    "url": "https://joao.tbk.digital",
+    "icon": "https://icons.duckduckgo.com/ip3/joao.tbk.digital.ico",
+    "slug": "joao-s-portfolio-page",
+    "status": "up",
+    "uptime": "8.74%",
+    "uptimeDay": "8.74%",
+    "uptimeWeek": "8.74%",
+    "uptimeMonth": "8.74%",
+    "uptimeYear": "8.74%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-03-10": 0
+    }
   }
 ]
