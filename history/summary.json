@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 346,
-    "timeDay": 256,
-    "timeWeek": 307,
-    "timeMonth": 315,
-    "timeYear": 346,
+    "time": 344,
+    "timeDay": 173,
+    "timeWeek": 273,
+    "timeMonth": 312,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2023-03-01": 123
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tbk.digital.ico",
     "slug": "tbk-digital-labs-website",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.92%",
-    "time": 322,
-    "timeDay": 151,
-    "timeWeek": 255,
-    "timeMonth": 318,
-    "timeYear": 322,
+    "uptimeYear": "99.93%",
+    "time": 325,
+    "timeDay": 491,
+    "timeWeek": 303,
+    "timeMonth": 309,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2023-03-01": 65
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 71,
-    "timeWeek": 170,
-    "timeMonth": 141,
+    "timeDay": 135,
+    "timeWeek": 179,
+    "timeMonth": 139,
     "timeYear": 136,
     "dailyMinutesDown": {}
   }
