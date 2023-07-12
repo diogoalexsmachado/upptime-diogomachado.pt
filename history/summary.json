@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.diogomachado.pt.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
-    "time": 328,
-    "timeDay": 539,
-    "timeWeek": 384,
-    "timeMonth": 319,
-    "timeYear": 328,
+    "uptimeYear": "99.94%",
+    "time": 329,
+    "timeDay": 413,
+    "timeWeek": 399,
+    "timeMonth": 325,
+    "timeYear": 329,
     "dailyMinutesDown": {
       "2023-03-01": 123
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 331,
-    "timeDay": 416,
-    "timeWeek": 340,
-    "timeMonth": 335,
-    "timeYear": 331,
+    "time": 330,
+    "timeDay": 307,
+    "timeWeek": 361,
+    "timeMonth": 333,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2023-03-01": 65
     }
@@ -51,8 +51,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 166,
-    "timeWeek": 128,
+    "timeDay": 146,
+    "timeWeek": 140,
     "timeMonth": 217,
     "timeYear": 167,
     "dailyMinutesDown": {}
