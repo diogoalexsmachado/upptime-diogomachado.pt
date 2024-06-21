@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 256,
-    "timeWeek": 328,
-    "timeMonth": 339,
-    "timeYear": 352,
+    "timeDay": 394,
+    "timeWeek": 335,
+    "timeMonth": 334,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "tbk-digital-labs-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 264,
-    "timeDay": 393,
-    "timeWeek": 261,
-    "timeMonth": 204,
+    "time": 263,
+    "timeDay": 339,
+    "timeWeek": 255,
+    "timeMonth": 203,
     "timeYear": 244,
-    "dailyMinutesDown": {
-      "2024-06-20": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "João's Portfolio Page",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 189,
-    "timeWeek": 190,
-    "timeMonth": 181,
+    "timeDay": 163,
+    "timeWeek": 183,
+    "timeMonth": 182,
     "timeYear": 174,
     "dailyMinutesDown": {}
   }
