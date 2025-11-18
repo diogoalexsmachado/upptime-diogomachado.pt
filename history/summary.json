@@ -4,19 +4,19 @@
     "url": "https://www.diogomachado.pt",
     "icon": "https://icons.duckduckgo.com/ip3/www.diogomachado.pt.ico",
     "slug": "personal-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 452,
-    "timeDay": 314,
-    "timeWeek": 466,
-    "timeMonth": 453,
+    "timeDay": 322,
+    "timeWeek": 456,
+    "timeMonth": 450,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 41,
       "2025-06-05": 19
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tbk.digital.ico",
     "slug": "tbk-digital-labs-website",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 261,
     "timeDay": 114,
     "timeWeek": 288,
     "timeMonth": 275,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 41
     }
   },
   {
@@ -47,17 +47,17 @@
     "slug": "joao-s-portfolio-page",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.99%",
     "time": 252,
     "timeDay": 225,
     "timeWeek": 368,
     "timeMonth": 291,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 41
     }
   }
 ]
