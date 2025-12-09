@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 452,
-    "timeDay": 418,
-    "timeWeek": 394,
-    "timeMonth": 429,
-    "timeYear": 464,
+    "time": 451,
+    "timeDay": 305,
+    "timeWeek": 372,
+    "timeMonth": 423,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2025-11-18": 41,
       "2025-06-05": 19
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.97%",
     "time": 263,
-    "timeDay": 339,
-    "timeWeek": 275,
-    "timeMonth": 304,
-    "timeYear": 269,
+    "timeDay": 326,
+    "timeWeek": 291,
+    "timeMonth": 306,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2025-11-18": 172
     }
@@ -51,13 +51,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
-    "time": 256,
-    "timeDay": 337,
-    "timeWeek": 358,
-    "timeMonth": 339,
+    "time": 255,
+    "timeDay": 224,
+    "timeWeek": 343,
+    "timeMonth": 333,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2025-11-18": 133
     }
+  },
+  {
+    "name": "Luminos - Photography & Events",
+    "url": "https://luminos.pt",
+    "icon": "https://icons.duckduckgo.com/ip3/luminos.pt.ico",
+    "slug": "luminos-photography-and-events",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1067,
+    "timeDay": 1067,
+    "timeWeek": 1067,
+    "timeMonth": 1067,
+    "timeYear": 1067,
+    "dailyMinutesDown": {}
   }
 ]
