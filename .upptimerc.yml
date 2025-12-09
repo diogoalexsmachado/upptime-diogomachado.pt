@@ -9,6 +9,8 @@ sites:
     url: https://www.tbk.digital
   - name: João's Portfolio Page
     url: https://joao.tbk.digital
+  - name: Luminos - Photography & Events
+    url: https://luminos.pt
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
