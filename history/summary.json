@@ -66,19 +66,19 @@
     "url": "https://luminos.pt",
     "icon": "https://icons.duckduckgo.com/ip3/luminos.pt.ico",
     "slug": "luminos-photography-and-events",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 648,
-    "timeWeek": 789,
-    "timeMonth": 842,
-    "timeYear": 842,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "96.71%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 835,
+    "timeDay": 642,
+    "timeWeek": 771,
+    "timeMonth": 835,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2026-01-07": 0
+      "2026-01-07": 47
     }
   }
 ]
